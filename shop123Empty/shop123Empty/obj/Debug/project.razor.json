@@ -1,0 +1,19 @@
+{
+  "FilePath": "c:\\Users\\William\\Desktop\\Training\\0125GitTraning\\v1_collaborator\\shop123\\shop123Empty\\shop123Empty\\shop123Empty.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
